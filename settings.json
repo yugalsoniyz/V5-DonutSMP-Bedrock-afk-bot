@@ -1,10 +1,10 @@
 {
   "server": {
-    "host": "YOUR_SERVER_ADDRESS",
+    "host": "donutsmp.net",
     "port": 19132
   },
   "bot": {
-    "username": "YOUR_MINECRAFT_USERNAME"
+    "username": "yugal x9"
   },
   "reconnect": {
     "enabled": true,
