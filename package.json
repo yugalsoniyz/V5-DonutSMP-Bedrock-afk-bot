@@ -1,0 +1,16 @@
+{
+  "name": "bedrock-railway-client",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lightweight Minecraft Bedrock client with a web status dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "bedrock-protocol": "3.59.0"
+  }
+}

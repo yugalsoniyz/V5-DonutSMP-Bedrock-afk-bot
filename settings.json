@@ -1,0 +1,17 @@
+{
+  "server": {
+    "host": "YOUR_SERVER_ADDRESS",
+    "port": 19132
+  },
+  "bot": {
+    "username": "YOUR_MINECRAFT_USERNAME"
+  },
+  "reconnect": {
+    "enabled": true,
+    "initialDelayMs": 5000,
+    "maxDelayMs": 60000
+  },
+  "dashboard": {
+    "enabled": true
+  }
+}
